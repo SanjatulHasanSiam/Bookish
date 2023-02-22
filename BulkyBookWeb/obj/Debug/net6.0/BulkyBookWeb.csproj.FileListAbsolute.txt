@@ -584,3 +584,6 @@ C:\Users\sanja\Desktop\C Sharp\BookishWeb\BulkyBookWeb\obj\Debug\net6.0\refint\B
 C:\Users\sanja\Desktop\C Sharp\BookishWeb\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
 C:\Users\sanja\Desktop\C Sharp\BookishWeb\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.genruntimeconfig.cache
 C:\Users\sanja\Desktop\C Sharp\BookishWeb\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
+C:\Users\sanja\Desktop\C Sharp\BookishWeb\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sanja\Desktop\C Sharp\BookishWeb\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\sanja\Desktop\C Sharp\BookishWeb\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs

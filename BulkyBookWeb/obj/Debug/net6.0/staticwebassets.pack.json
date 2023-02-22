@@ -17,6 +17,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\sanja\\Desktop\\C Sharp\\BookishWeb\\BulkyBookWeb\\wwwroot\\images\\products\\53828154-65e6-4d57-8790-607a1be58026.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\53828154-65e6-4d57-8790-607a1be58026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\Desktop\\C Sharp\\BookishWeb\\BulkyBookWeb\\wwwroot\\images\\products\\6b56c012-06df-472a-9fb7-b17c709c34d5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6b56c012-06df-472a-9fb7-b17c709c34d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\Desktop\\C Sharp\\BookishWeb\\BulkyBookWeb\\wwwroot\\images\\products\\86559175-e1c8-47f8-8238-7cefc2361261.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\86559175-e1c8-47f8-8238-7cefc2361261.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\Desktop\\C Sharp\\BookishWeb\\BulkyBookWeb\\wwwroot\\images\\products\\f0155c60-c476-4137-8b6f-4eadb13ccbb0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f0155c60-c476-4137-8b6f-4eadb13ccbb0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\Desktop\\C Sharp\\BookishWeb\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\sanja\\Desktop\\C Sharp\\BookishWeb\\BulkyBookWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
